@@ -17,7 +17,7 @@ If you have your solution saved to a file located at `path/to/solution.rb`, and
 the corresponding spec is located at `other_path/to/sanity_spec.rb`, then you can run
 the sanity spec with:
 
-    rspec path/to/solution.rb other_path/to/sanity_spec.rb
+    sudo rspec path/to/solution.rb other_path/to/sanity_spec.rb
 
 The output should look something like:
 
