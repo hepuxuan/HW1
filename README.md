@@ -12,12 +12,13 @@ Running Sanity Specs
 ====================
 
 To run the sanity specs, please make sure `rspec` is installed.
-To install rspec, run `gem install rspec`.
+To install rspec, run
+    sudo gem install rspec
 If you have your solution saved to a file located at `path/to/solution.rb`, and
 the corresponding spec is located at `other_path/to/sanity_spec.rb`, then you can run
 the sanity spec with:
 
-    sudo rspec path/to/solution.rb other_path/to/sanity_spec.rb
+    rspec path/to/solution.rb other_path/to/sanity_spec.rb
 
 The output should look something like:
 
